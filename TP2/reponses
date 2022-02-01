@@ -2,7 +2,7 @@
 
 
 # QUESTION 1:
-
+les planets et les ships sont des agents puisqu'ils sont capables d'intéragir entre eux et les spaceroads constituent l'envrionnement.
 
 
 # QUESTION 2:
@@ -12,13 +12,16 @@ Cette entité n'itéragit n'observe pas son environnement et elle n'intéragit p
 # QUESTION 3:
 Le rapport entre le nombre de biens présents dans le système et le nombre de biens livrés diminue au cours du temps, c'est une chose logique puisque le nombre de biens livrés est
 cumulatif
-(l'image de la courbe "canvas.png" est dans la répo)
+voici le lien vers l'image de la courbe: https://imgur.com/wXFMFES
+
 
 # QUESTION 4:
-
+Nos agents sont coopératifs, puisqu'ils cherchent à augmenter l'utilité. Donc c'est une organisation de coopération
 
 # QUESTION 6:
+Ce comportement des agents correspond au caractéristique fondamentale de la perception de l'environnement
 
 # QUESTION 7:
-
-# QUESTION 8
+On remarque que le rapport entre le nombre de biens présents dans le système et le nombre de biens livrés est plus petit que celui du cas statique. c'est logique puisque dans ce 
+cas là, le cas dynamique, la livraison est retardée quand les autoroutes deviennent encombrée.
+voici le lien vers l'image de la courbe pour le cas dynamique: https://imgur.com/llNWuH6
