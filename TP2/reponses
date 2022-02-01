@@ -1,22 +1,24 @@
 # TP2 Livraison spatiale
 
 
-QUESTION 1:
+# QUESTION 1:
 
 
 
-QUESTION 2:
+# QUESTION 2:
+Cette entité n'itéragit n'observe pas son environnement et elle n'intéragit pas avec lui, donc elle ne constitue pas un agent. 
 
 
+# QUESTION 3:
+Le rapport entre le nombre de biens présents dans le système et le nombre de biens livrés diminue au cours du temps, c'est une chose logique puisque le nombre de biens livrés est
+cumulatif
+(l'image de la courbe est dans la répo)
 
-QUESTION 3:
+# QUESTION 4:
 
 
-QUESTION 4:
+# QUESTION 6:
 
+# QUESTION 7:
 
-QUESTION 6:
-
-QUESTION 7:
-
-QUESTION 8
+# QUESTION 8
